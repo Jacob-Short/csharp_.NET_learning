@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "learning_bitArrays/1.0.0": {
+        "runtime": {
+          "learning_bitArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "learning_bitArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

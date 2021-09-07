@@ -1,0 +1,16 @@
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/bin/Debug/net5.0/learning_dictionaries
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/bin/Debug/net5.0/learning_dictionaries.deps.json
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/bin/Debug/net5.0/learning_dictionaries.runtimeconfig.json
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/bin/Debug/net5.0/learning_dictionaries.runtimeconfig.dev.json
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/bin/Debug/net5.0/learning_dictionaries.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/bin/Debug/net5.0/ref/learning_dictionaries.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/bin/Debug/net5.0/learning_dictionaries.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/obj/Debug/net5.0/learning_dictionaries.csproj.AssemblyReference.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/obj/Debug/net5.0/learning_dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/obj/Debug/net5.0/learning_dictionaries.AssemblyInfoInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/obj/Debug/net5.0/learning_dictionaries.AssemblyInfo.cs
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/obj/Debug/net5.0/learning_dictionaries.csproj.CoreCompileInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/obj/Debug/net5.0/learning_dictionaries.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/obj/Debug/net5.0/ref/learning_dictionaries.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/obj/Debug/net5.0/learning_dictionaries.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_dictionaries/obj/Debug/net5.0/learning_dictionaries.genruntimeconfig.cache

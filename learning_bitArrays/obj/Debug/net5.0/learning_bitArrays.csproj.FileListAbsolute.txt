@@ -1,0 +1,16 @@
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/bin/Debug/net5.0/learning_bitArrays
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/bin/Debug/net5.0/learning_bitArrays.deps.json
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/bin/Debug/net5.0/learning_bitArrays.runtimeconfig.json
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/bin/Debug/net5.0/learning_bitArrays.runtimeconfig.dev.json
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/bin/Debug/net5.0/learning_bitArrays.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/bin/Debug/net5.0/ref/learning_bitArrays.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/bin/Debug/net5.0/learning_bitArrays.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/obj/Debug/net5.0/learning_bitArrays.csproj.AssemblyReference.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/obj/Debug/net5.0/learning_bitArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/obj/Debug/net5.0/learning_bitArrays.AssemblyInfoInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/obj/Debug/net5.0/learning_bitArrays.AssemblyInfo.cs
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/obj/Debug/net5.0/learning_bitArrays.csproj.CoreCompileInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/obj/Debug/net5.0/learning_bitArrays.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/obj/Debug/net5.0/ref/learning_bitArrays.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/obj/Debug/net5.0/learning_bitArrays.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_bitArrays/obj/Debug/net5.0/learning_bitArrays.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/bin/Debug/net5.0/learning_lists
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/bin/Debug/net5.0/learning_lists.deps.json
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/bin/Debug/net5.0/learning_lists.runtimeconfig.json
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/bin/Debug/net5.0/learning_lists.runtimeconfig.dev.json
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/bin/Debug/net5.0/learning_lists.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/bin/Debug/net5.0/ref/learning_lists.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/bin/Debug/net5.0/learning_lists.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/obj/Debug/net5.0/learning_lists.csproj.AssemblyReference.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/obj/Debug/net5.0/learning_lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/obj/Debug/net5.0/learning_lists.AssemblyInfoInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/obj/Debug/net5.0/learning_lists.AssemblyInfo.cs
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/obj/Debug/net5.0/learning_lists.csproj.CoreCompileInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/obj/Debug/net5.0/learning_lists.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/obj/Debug/net5.0/ref/learning_lists.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/obj/Debug/net5.0/learning_lists.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_lists/obj/Debug/net5.0/learning_lists.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/bin/Debug/net5.0/learning_tuples
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/bin/Debug/net5.0/learning_tuples.deps.json
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/bin/Debug/net5.0/learning_tuples.runtimeconfig.json
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/bin/Debug/net5.0/learning_tuples.runtimeconfig.dev.json
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/bin/Debug/net5.0/learning_tuples.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/bin/Debug/net5.0/ref/learning_tuples.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/bin/Debug/net5.0/learning_tuples.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/obj/Debug/net5.0/learning_tuples.csproj.AssemblyReference.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/obj/Debug/net5.0/learning_tuples.GeneratedMSBuildEditorConfig.editorconfig
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/obj/Debug/net5.0/learning_tuples.AssemblyInfoInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/obj/Debug/net5.0/learning_tuples.AssemblyInfo.cs
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/obj/Debug/net5.0/learning_tuples.csproj.CoreCompileInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/obj/Debug/net5.0/learning_tuples.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/obj/Debug/net5.0/ref/learning_tuples.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/obj/Debug/net5.0/learning_tuples.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_tuples/obj/Debug/net5.0/learning_tuples.genruntimeconfig.cache
