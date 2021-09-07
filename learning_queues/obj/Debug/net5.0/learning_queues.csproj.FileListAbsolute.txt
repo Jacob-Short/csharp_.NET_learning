@@ -1,0 +1,16 @@
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/bin/Debug/net5.0/learning_queues
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/bin/Debug/net5.0/learning_queues.deps.json
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/bin/Debug/net5.0/learning_queues.runtimeconfig.json
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/bin/Debug/net5.0/learning_queues.runtimeconfig.dev.json
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/bin/Debug/net5.0/learning_queues.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/bin/Debug/net5.0/ref/learning_queues.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/bin/Debug/net5.0/learning_queues.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/obj/Debug/net5.0/learning_queues.csproj.AssemblyReference.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/obj/Debug/net5.0/learning_queues.GeneratedMSBuildEditorConfig.editorconfig
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/obj/Debug/net5.0/learning_queues.AssemblyInfoInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/obj/Debug/net5.0/learning_queues.AssemblyInfo.cs
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/obj/Debug/net5.0/learning_queues.csproj.CoreCompileInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/obj/Debug/net5.0/learning_queues.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/obj/Debug/net5.0/ref/learning_queues.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/obj/Debug/net5.0/learning_queues.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_queues/obj/Debug/net5.0/learning_queues.genruntimeconfig.cache
