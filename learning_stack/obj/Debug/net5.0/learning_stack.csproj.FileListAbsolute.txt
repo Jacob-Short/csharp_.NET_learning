@@ -1,0 +1,16 @@
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/bin/Debug/net5.0/learning_stack
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/bin/Debug/net5.0/learning_stack.deps.json
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/bin/Debug/net5.0/learning_stack.runtimeconfig.json
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/bin/Debug/net5.0/learning_stack.runtimeconfig.dev.json
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/bin/Debug/net5.0/learning_stack.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/bin/Debug/net5.0/ref/learning_stack.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/bin/Debug/net5.0/learning_stack.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/obj/Debug/net5.0/learning_stack.csproj.AssemblyReference.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/obj/Debug/net5.0/learning_stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/obj/Debug/net5.0/learning_stack.AssemblyInfoInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/obj/Debug/net5.0/learning_stack.AssemblyInfo.cs
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/obj/Debug/net5.0/learning_stack.csproj.CoreCompileInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/obj/Debug/net5.0/learning_stack.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/obj/Debug/net5.0/ref/learning_stack.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/obj/Debug/net5.0/learning_stack.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_stack/obj/Debug/net5.0/learning_stack.genruntimeconfig.cache
