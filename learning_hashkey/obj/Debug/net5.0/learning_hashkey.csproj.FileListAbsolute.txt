@@ -1,0 +1,16 @@
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/bin/Debug/net5.0/learning_hashkey
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/bin/Debug/net5.0/learning_hashkey.deps.json
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/bin/Debug/net5.0/learning_hashkey.runtimeconfig.json
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/bin/Debug/net5.0/learning_hashkey.runtimeconfig.dev.json
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/bin/Debug/net5.0/learning_hashkey.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/bin/Debug/net5.0/ref/learning_hashkey.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/bin/Debug/net5.0/learning_hashkey.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/obj/Debug/net5.0/learning_hashkey.csproj.AssemblyReference.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/obj/Debug/net5.0/learning_hashkey.GeneratedMSBuildEditorConfig.editorconfig
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/obj/Debug/net5.0/learning_hashkey.AssemblyInfoInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/obj/Debug/net5.0/learning_hashkey.AssemblyInfo.cs
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/obj/Debug/net5.0/learning_hashkey.csproj.CoreCompileInputs.cache
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/obj/Debug/net5.0/learning_hashkey.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/obj/Debug/net5.0/ref/learning_hashkey.dll
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/obj/Debug/net5.0/learning_hashkey.pdb
+/home/jacob/Desktop/c#_.NET/projects/learning_hashkey/obj/Debug/net5.0/learning_hashkey.genruntimeconfig.cache
